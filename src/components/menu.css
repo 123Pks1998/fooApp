@@ -1,0 +1,58 @@
+.menus {
+    display: inline-flex;
+    margin-top: 50px;
+    margin-left: 140px;
+    width: fit-content;
+}
+
+
+
+.thanku {
+    position: absolute;
+    bottom: 20px;
+}
+
+.menucard {
+    box-sizing: border-box;
+    box-shadow: 0px 1px gray;
+    width: 200px;
+    height: fit-content;
+    background-color: rgb(247, 237, 237);
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.cardImage {
+    width: 200px;
+    height: 140px;
+
+}
+
+.cardAttributes {
+    margin: 10px;
+    padding: 5px;
+}
+
+.cardAttributes button {
+    margin-top: 5px;
+    width: 50px;
+    height: 30px;
+    color: white;
+    font-weight: 500;
+    border-style: none;
+    margin-right: 5px;
+    border-radius: 3px;
+}
+
+.addButton {
+    background-color: blue;
+}
+
+.removeButton {
+    background-color: rgb(190, 180, 180);
+
+}
+
+.cards_items {
+    text-align: c;
+}
